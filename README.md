@@ -37,13 +37,13 @@ To run this project locally, follow these steps:
    
 ## Usage Instructions
 
-## Adding a Task:
-      - ** Enter the task description in the input field labeled "Add a new task."
-      - ** **:Select a due date from the date picker.
+### Adding a Task:
+      - Enter the task description in the input field labeled "Add a new task."
+      - Select a due date from the date picker.
       - Choose a priority level from the dropdown menu (low, medium, high).
       - Click the "Add Task" button to create the task.
       
-## Managing Tasks:
+### Managing Tasks:
       - Edit a Task: Select a task from the dropdown, then click "Edit." Follow the prompts to modify the task details.
       - Delete a Task: Select a task from the dropdown, then click "Delete" to remove it.
       - Delete All Tasks: Click the "Delete All" button to remove all tasks at once.
