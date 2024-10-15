@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 ### Steps to Run the Project
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/Madhurikar01/To-Do-List.git 
 
 2. Navigate to the Project Directory:
       cd to-do-list
@@ -38,10 +38,10 @@ To run this project locally, follow these steps:
 Usage Instructions
 
 Adding a Task
-    1. Enter the task description in the input field labeled "Add a new task."
-    2. Select a due date from the date picker.
-    3. Choose a priority level from the dropdown menu (low, medium, high).
-    4. Click the "Add Task" button to create the task.
+    Enter the task description in the input field labeled "Add a new task."
+    Select a due date from the date picker.
+    Choose a priority level from the dropdown menu (low, medium, high).
+    Click the "Add Task" button to create the task.
     
 Managing Tasks
     Edit a Task: Select a task from the dropdown, then click "Edit." Follow the prompts to modify the task details.
