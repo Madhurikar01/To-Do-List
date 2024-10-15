@@ -35,30 +35,29 @@ To run this project locally, follow these steps:
 
 4. Open the Project: Open the index.html file in your preferred web browser to view and interact with the application.
    
-Usage Instructions
-Adding a Task:
-
-Enter the task description in the input field labeled "Add a new task."
-Select a due date from the date picker.
-Choose a priority level from the dropdown menu (low, medium, high).
-Click the "Add Task" button to create the task.
-Managing Tasks:
-
+## Usage Instructions
+   ## Adding a Task:
+      Enter the task description in the input field labeled "Add a new task."
+      Select a due date from the date picker.
+      Choose a priority level from the dropdown menu (low, medium, high).
+      Click the "Add Task" button to create the task.
+      
+## Managing Tasks:
 Edit a Task: Select a task from the dropdown, then click "Edit." Follow the prompts to modify the task details.
 Delete a Task: Select a task from the dropdown, then click "Delete" to remove it.
 Delete All Tasks: Click the "Delete All" button to remove all tasks at once.
 Filter Tasks: Use the "Filter tasks" dropdown to view all tasks, completed tasks, or pending tasks.
 Search Tasks: Use the search bar to find specific tasks by typing keywords.
-Toggling Dark Mode:
 
-Click the "Dark Mode" checkbox to switch between light and dark themes for a more comfortable user experience.
+## Toggling Dark Mode:
+   ## Click the "Dark Mode" checkbox to switch between light and dark themes for a more comfortable user experience.
 
-License
+## License
 This project is licensed under the Educational Use License. You are permitted to use this project for educational purposes, but you may not copy, modify, or use it for commercial purposes without explicit permission from the Licensor.
 
 Please refer to the LICENSE file for more detailed information.
 
-Screenshots
+## Screenshots
 
 ![image](https://github.com/user-attachments/assets/c48af6b5-6c89-4654-9353-1d48b3e69b59)
 
