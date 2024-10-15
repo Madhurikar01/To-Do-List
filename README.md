@@ -50,7 +50,7 @@ To run this project locally, follow these steps:
       - Filter Tasks: Use the "Filter tasks" dropdown to view all tasks, completed tasks, or pending tasks.
       - Search Tasks: Use the search bar to find specific tasks by typing keywords.
 
-## Toggling Dark Mode:
+### Toggling Dark Mode:
       - Click the "Dark Mode" checkbox to switch between light and dark themes for a more comfortable user experience.
 
 ## License
