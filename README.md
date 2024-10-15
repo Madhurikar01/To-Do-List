@@ -27,23 +27,23 @@ To run this project locally, follow these steps:
 
 ### Steps to Run the Project
 1. **Clone the Repository**:
-   ```bash
    git clone https://github.com/Madhurikar01/To-Do-List.git 
 
-2. Navigate to the Project Directory:
-      cd to-do-list
+2. Navigate to the Project Directory: cd To-Do-List
 
 4. Open the Project: Open the index.html file in your preferred web browser to view and interact with the application.
    
 ## Usage Instructions
 
 ### Adding a Task:
+
       - Enter the task description in the input field labeled "Add a new task."
       - Select a due date from the date picker.
       - Choose a priority level from the dropdown menu (low, medium, high).
       - Click the "Add Task" button to create the task.
       
 ### Managing Tasks:
+
       - Edit a Task: Select a task from the dropdown, then click "Edit." Follow the prompts to modify the task details.
       - Delete a Task: Select a task from the dropdown, then click "Delete" to remove it.
       - Delete All Tasks: Click the "Delete All" button to remove all tasks at once.
@@ -51,6 +51,7 @@ To run this project locally, follow these steps:
       - Search Tasks: Use the search bar to find specific tasks by typing keywords.
 
 ### Toggling Dark Mode:
+
       - Click the "Dark Mode" checkbox to switch between light and dark themes for a more comfortable user experience.
 
 ## License
