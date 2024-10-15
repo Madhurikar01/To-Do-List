@@ -59,7 +59,11 @@ This project is licensed under the Educational Use License. You are permitted to
 Please refer to the LICENSE file for more detailed information.
 
 Screenshots
+
 ![image](https://github.com/user-attachments/assets/c48af6b5-6c89-4654-9353-1d48b3e69b59)
+
+![image](https://github.com/user-attachments/assets/e5f269c1-d193-4a7a-b833-6dbdab187bb5)
+
 
 
 
