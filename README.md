@@ -38,8 +38,8 @@ To run this project locally, follow these steps:
 ## Usage Instructions
 
 ## Adding a Task:
-      - ** **Enter the task description in the input field labeled "Add a new task."
-      - Select a due date from the date picker.
+      - ** Enter the task description in the input field labeled "Add a new task."
+      - ** **:Select a due date from the date picker.
       - Choose a priority level from the dropdown menu (low, medium, high).
       - Click the "Add Task" button to create the task.
       
