@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>To-Do List</h1>
+        <div class="theme-toggle">
+            <label>
+                <input type="checkbox" id="theme-toggle"> Dark Mode
+            </label>
+        </div>
+        <div class="input-section">
+            <input type="text" id="task-input" placeholder=" Add a new task....." />
+            <input type="date" id="due-date-input" />
+            <select id="priority-select">
+                <option value="">---Select Priority---</option>
+                <option value="low">Low</option>
+                <option value="medium">Medium</option>
+                <option value="high">High</option>
+            </select>
+            <button id="add-task-btn">Add Task</button>
+        </div>
+
+        <div class="filter-section">
+            <label for="filter-select">Filter tasks:</label>
+            <select id="filter-select">
+                <option value="all">All Tasks</option>
+                <option value="completed">Completed Tasks</option>
+                <option value="pending">Pending Tasks</option>
+            </select>
+
+            <div class="task-selection">
+                <label for="task-select">Select a task:</label>
+                <select id="task-select">
+                    <option value="">--Select Task--</option>
+                </select>
+                <button id="edit-task-btn" disabled>Edit</button>
+                <button id="delete-task-btn" disabled>Delete</button>
+                <button id="delete-all-btn">Delete All</button>
+            </div>
+        </div>
+
+        <input type="text" id="search-input" placeholder=" Type to search tasks....." />
+        
+        <div class="task-list-container">
+            <ul id="task-list">
+                <!-- Task items will be appended here -->
+            </ul>
+            <div id="no-results-message" class="hidden">No matching tasks found.</div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
